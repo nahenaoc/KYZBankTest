@@ -3,6 +3,12 @@
 ## 🚀 Description
 The KYZBank project is an automation test suite for a web banking application, using Selenium and Java. This project is designed to demonstrate skills in automated testing, test case design, and test framework development.
 
+The KYZBank web app is a platform designed specifically to practice automation testing. It is a simulated banking application that provides a secure and controlled environment for software developers and testers to hone their skills in test automation.
+
+The provided URL leads to the login page of the app, which is the starting point for interacting with the various banking functionalities it offers, such as account creation, transactions, deposits and withdrawals.
+
+The user interface is built with AngularJS and is designed to be compatible with Protractor, an automation testing framework for AngularJS applications.
+
 ### 📁 Directory Structure
 
 The organization of our directories is clear and logical, allowing intuitive navigation through the project:
