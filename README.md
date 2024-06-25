@@ -3,7 +3,14 @@
 ## 🚀 Description
 The KYZBank project is an automation test suite for a web banking application, using Selenium and Java. This project is designed to demonstrate skills in automated testing, test case design, and test framework development.
 
-## 📂 Project Structure
+### 📁 Directory Structure
+
+The organization of our directories is clear and logical, allowing intuitive navigation through the project:
+
+- **`/drivers`**: Contains browser drivers, guaranteeing consistency in testing.
+- **`/src/main/java`**: Hosts the page and utility classes, forming the core of our automation operations.
+- **`/src/test/java`**: Includes the test classes and the base class, where the magic of testing happens.
+- **`/resources`**: Stores configuration files and test data, essential for the execution of our test suites.
 ```
 KYZBankProject
 │
@@ -39,15 +46,6 @@ KYZBankProject
 ### 📚 Page Object Model (POM) pattern
 
 We implemented the **Page Object Model (POM)** ​​pattern to separate the testing logic from the user interface. Each web page is encapsulated in its own Java class, which facilitates **change management** and improves **reusability** of the code.
-
-### 📁 Directory Structure
-
-The organization of our directories is clear and logical, allowing intuitive navigation through the project:
-
-- **`/drivers`**: Contains browser drivers, guaranteeing consistency in testing.
-- **`/src/main/java`**: Hosts the page and utility classes, forming the core of our automation operations.
-- **`/src/test/java`**: Includes the test classes and the base class, where the magic of testing happens.
-- **`/resources`**: Stores configuration files and test data, essential for the execution of our test suites.
 
 ### 🛠️ Maven as Dependency Manager
 
