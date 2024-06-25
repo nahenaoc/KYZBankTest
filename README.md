@@ -40,12 +40,12 @@ KYZBankProject
 │   │
 │   └── test
 │       ├── java
-│       │   ├── tests
-│       │   │   └── KYZBankTest.java
-│       │   └── base
-│       │       └── TestBase.java
-│       └── resources
-│           └── testData.xlsx
+│           ├── tests
+│           │   └── KYZBankTest.java
+│           └── base
+│              └── TestBase.java
+│       
+│           
 │
 └── pom.xml
 ```
