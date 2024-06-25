@@ -5,7 +5,7 @@ The KYZBank project is an automation test suite for a web banking application, u
 
 https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
 
-The KYZBank web app is a platform designed specifically to practice automation testing. It is a simulated banking application that provides a secure and controlled environment for software developers and testers to hone their skills in test automation.
+The KYZBank web app is a platform designed specifically to practice automation testing. It is a simulated banking application that provides a secure and controlled environment for software developers and testers to improve their skills in test automation.
 
 The provided URL leads to the login page of the app, which is the starting point for interacting with the various banking functionalities it offers, such as account creation, transactions, deposits and withdrawals.
 
