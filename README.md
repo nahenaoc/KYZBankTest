@@ -4,7 +4,35 @@
 The KYZBank project is an automation test suite for a web banking application, using Selenium and Java. This project is designed to demonstrate skills in automated testing, test case design, and test framework development.
 
 ## Project Structure
-KYZBankProject │ ├── drivers │ └── chromedriver.exe │ ├── src │ ├── main │ │ ├── java │ │ │ ├── pages │ │ │ │ ├── HomePage.java │ │ │ │ ├── CustomerLoginPage.java │ │ │ │ ├── AccountPage.java │ │ │ │ └── TransactionPage.java │ │ │ └── utils │ │ │ └── WebDriverUtils.java │ │ └── resources │ │ └── config.properties │ │ │ └── test │ ├── java │ │ ├── tests │ │ │ └── KYZBankTest.java │ │ └── base │ │ └── TestBase.java │ └── resources │ └── testData.xlsx │ └── pom.xml
+"KYZBankProject
+│
+├── drivers
+│   └── chromedriver.exe
+│
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   ├── pages
+│   │   │   │   ├── HomePage.java
+│   │   │   │   ├── CustomerLoginPage.java
+│   │   │   │   ├── AccountPage.java
+│   │   │   │   └── TransactionPage.java
+│   │   │   └── utils
+│   │   │       └── WebDriverUtils.java
+│   │   └── resources
+│   │       └── config.properties
+│   │
+│   └── test
+│       ├── java
+│       │   ├── tests
+│       │   │   └── KYZBankTest.java
+│       │   └── base
+│       │       └── TestBase.java
+│       └── resources
+│           └── testData.xlsx
+│
+└── pom.xml
+
 
 ## Classes and their Purpose
 
